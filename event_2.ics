@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//MyOrg//Calendar//EN
+PRODID:-//Smart Calendar Generator//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:My Project Roadmap
+X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:event-001@myorg.com
-DTSTAMP:20251215T100000Z
-DTSTART:20251220T090000Z
-DTEND:20251220T100000Z
-SUMMARY:Milestone v1.0 Release
-DESCRIPTION:https://github.com/LLeiChen/my_schedule/edit/main/event_2.ics
+UID:194556de-991a-4496-af30-cc1b9f8cab0e@smartcalendar
+DTSTAMP:TZID=Asia/Shanghai:20251216T100000Z
+DTSTART:TZID=Asia/Shanghai:20251220T090000Z
+DTEND:TZID=Asia/Shanghai:20251220T100000Z
+SUMMARY:面试候选人
+DESCRIPTION:https://github.com/LLeiChen/my_schedule/blob/main/event_3.ics
 SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
